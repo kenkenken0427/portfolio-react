@@ -142,7 +142,7 @@ export default function Hero() {
     variants={containerVariants}
   >
     <motion.a
-      href="https://github.com/yourusername"
+      href="https://github.com/kenkenken0427?tab=overview&from=2026-02-01&to=2026-02-04"
       target="_blank"
       rel="noreferrer"
       className="social-btn"
@@ -154,7 +154,7 @@ export default function Hero() {
     </motion.a>
 
     <motion.a
-      href="https://linkedin.com/in/yourusername"
+      href="https://www.linkedin.com/in/john-kenryk-cruz-82b683399/"
       target="_blank"
       rel="noreferrer"
       className="social-btn"
